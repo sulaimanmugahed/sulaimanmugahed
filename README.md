@@ -1,5 +1,19 @@
 
-As a fresh and aspiring .NET backend developer, I am eager to embark on a journey of continuous learning and growth in the development ﬁeld.
+As a fresh and aspiring .NET backend developer, I am eager to embark on a journey of continuous learning and growth in the development field.
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  </p>
+
+
+---
+### My Skills
+
+<img async src="./doc/Icons/csharp.svg" alt="C#" height="40">
+<img async src="./doc/Icons/sql.svg" alt="SQL" height="40">
+<img async src="./doc/Icons/dotnet.svg" alt=".NET" height="40">
+<img async src="./doc/Icons/git.svg" alt="Git" height="40">
+<img async src="./doc/Icons/redis.svg" alt="Redis" height="40">
+<img async src="./doc/Icons/docker.svg" alt="Docker" height="40">
+
+---
+
+
