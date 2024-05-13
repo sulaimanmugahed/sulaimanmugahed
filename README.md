@@ -13,6 +13,7 @@ As a fresh and aspiring .NET backend developer, I am eager to embark on a journe
 <img async src="./doc/icons/git.svg" alt="Git" height="40">
 <img async src="./doc/icons/redis.svg" alt="Redis" height="40">
 <img async src="./doc/icons/docker.svg" alt="Docker" height="40">
+<img async src="./doc/icons/js.svg" alt="javascript" height="40">
 
 ---
 
